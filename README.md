@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi 👋, I'm Milinda Ranawaka</h1>
+   <h1>Hi👋, I'm Milinda Ranawaka</h1>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
